@@ -13,6 +13,11 @@ Der Self-Healing Code Refactorer soll:
 - selbstständig Korrekturen vornehmen
 - die Korrekturen erneut validieren (Feedback-Loop)
 
+## Hardware Requirements
+
+Dieses Projekt ist vollständig lokal ausführbar und benötigt keine spezielle Hardware.
+Siehe `hardware-requirements.md` für Details.
+
 ## Projektstruktur
 
 /src  

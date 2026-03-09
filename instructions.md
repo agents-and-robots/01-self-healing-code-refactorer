@@ -96,6 +96,19 @@ Rückgabe: syntaktisch gültiger Python-Code
 - Funktionen ≤ 20 Zeilen (soft)
 - max. 3 Verschachtelungsebenen
 
+
+## Hardware Constraints
+
+Dieses Projekt muss vollständig auf normaler Consumer-Hardware lauffähig sein:
+
+- CPU-only
+- keine GPU-Abhängigkeiten
+- keine Modelle größer als 1 GB
+- keine externen APIs oder Cloud-Dienste
+- alle Funktionen müssen mit Python-Standardbibliothek oder minimalen Abhängigkeiten implementiert werden
+
+Der gesamte Code muss offline funktionieren.
+
 ---
 
 ## 6. Aufgaben an das LLM
